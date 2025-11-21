@@ -660,7 +660,9 @@ visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);
     color: #8e8f99;
     margin-bottom: 4px;
 }
-
+.form-field-wrapper {
+    margin-bottom: 8px;
+}
 .user-name-wrapper {
     margin-bottom: 16px;
 }
@@ -668,9 +670,7 @@ visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);
 .user-comment-wrapper {
     margin-bottom: 24px;
 }
-.form-field-wrapper {
-    margin-bottom: 8px;
-}
+
 .text-field{
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 4px;
